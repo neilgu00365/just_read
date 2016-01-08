@@ -5,6 +5,17 @@
 [description-configure-pkg](http://www.mike.org.cn/articles/description-configure-pkg-config-pkg_config_path-of-the-relations-between/)  
 
 [OpenCVで画像の特徴抽出・マッチングを行う](http://whoopsidaisies.hatenablog.com/entry/2013/12/07/135810#DescriptorMatcher)  
+[OpenCV3.0.0-alphaの特徴抽出・マッチングまとめ](http://whoopsidaisies.hatenablog.com/entry/2014/08/20/200215)  
+[OpenCV 3.1.0-dev Document](http://docs.opencv.org/master/pages.html#gsc.tab=0)  
+[About Ransac](http://ramsrigoutham.com/tag/ransac/)  
+[Common Interfaces of Descriptor Matchers](http://docs.opencv.org/2.4/modules/features2d/doc/common_interfaces_of_descriptor_matchers.html#descriptormatcher-create)  
+[画像局所特徴量と特定物体認識 - SIFTと最近のアプローチ -](http://www.vision.cs.chubu.ac.jp/cvtutorial/PDF/02SIFTandMore.pdf)  
+
+
+
+
+
+
 
 ---------------------------------------------------------------------------------------------
 #OpenCV-3.1.0 Install
