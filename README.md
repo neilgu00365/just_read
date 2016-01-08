@@ -4,6 +4,8 @@
 [Taiwan Visa](http://web.roc-taiwan.org/jp/post/435.html)  
 [description-configure-pkg](http://www.mike.org.cn/articles/description-configure-pkg-config-pkg_config_path-of-the-relations-between/)  
 
+http://whoopsidaisies.hatenablog.com/entry/2013/12/07/135810#DescriptorMatcher
+
 ---------------------------------------------------------------------------------------------
 #OpenCV-3.1.0 Install
 
