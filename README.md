@@ -10,7 +10,17 @@
 [About Ransac](http://ramsrigoutham.com/tag/ransac/)  
 [Common Interfaces of Descriptor Matchers](http://docs.opencv.org/2.4/modules/features2d/doc/common_interfaces_of_descriptor_matchers.html#descriptormatcher-create)  
 [画像局所特徴量と特定物体認識 - SIFTと最近のアプローチ -](http://www.vision.cs.chubu.ac.jp/cvtutorial/PDF/02SIFTandMore.pdf)  
-
+[AKAZE and ORB planar tracking](http://docs.opencv.org/master/dc/d16/tutorial_akaze_tracking.html#gsc.tab=0)  
+[Panorama – Image Stitching in OpenCV](http://ramsrigoutham.com/tag/ransac/)  
+[Features2D + Homography to find a known object](http://docs.opencv.org/2.4/doc/tutorials/features2d/feature_homography/feature_homography.html)  
+[ORBを用いて特徴点のマッチングを行う(ORB説明)](http://homepage3.nifty.com/ishidate/opencv_11/opencv_11.htm)  
+[OpenCV中feature2D学习——ORB和BruteForceMatcher ](http://blog.csdn.net/holybin/article/details/48776949)  
+[OpenCV中feature2D学习——FAST特征点检测与SIFT/SURF/BRIEF特征提取与匹配 ](http://blog.csdn.net/holybin/article/details/44778747) [二枚のカメラ画像から基礎行列を求めるのは難しい](http://homepage3.nifty.com/ishidate/opencv_19/opencv_19.htm)  
+[A Study on an Obstacles Detection System Employing a Car-mounted Camera(Camera ego-estimation)](https://ds.lib.kyutech.ac.jp/dspace/bitstream/10228/5313/1/D-231_kou_k_371.pdf)  
+[BundlerによるStructure from MotionでKAZE局所特徴量を使ってみた](http://daily.belltail.jp/?p=1387)  
+[A-KAZE github](https://github.com/pablofdezalc/akaze)  
+[ORB使ってみた(ORBと比較&code)](http://pukulab.blog.fc2.com/blog-entry-41.html)  
+[]()
 
 
 
