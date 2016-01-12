@@ -19,9 +19,9 @@
 [A Study on an Obstacles Detection System Employing a Car-mounted Camera(Camera ego-estimation)](https://ds.lib.kyutech.ac.jp/dspace/bitstream/10228/5313/1/D-231_kou_k_371.pdf)  
 [BundlerによるStructure from MotionでKAZE局所特徴量を使ってみた](http://daily.belltail.jp/?p=1387)  
 [A-KAZE github](https://github.com/pablofdezalc/akaze)  
-[ORB使ってみた(ORBと比較&code)](http://pukulab.blog.fc2.com/blog-entry-41.html)  
-[ORBでホモグラフィー行列推定](http://pukulab.blog.fc2.com/blog-entry-59.html)　　
-[カメラキャリブレーションと3次元再構成](http://opencv.jp/opencv-2svn/cpp/camera_calibration_and_3d_reconstruction.html#cv-findhomography)  
+[ORB使ってみた(ORBと比較&code)](http://pukulab.blog.fc2.com/blog-entry-41.html)    
+[ORBでホモグラフィー行列推定](http://pukulab.blog.fc2.com/blog-entry-59.html)　  　
+[カメラキャリブレーションと3次元再構成](http://opencv.jp/opencv-2svn/cpp/camera_calibration_and_3d_reconstruction.html#cv-findhomography)    
 [Camera Calibration and 3D Reconstruction](http://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html?highlight=findhomography)  
 []()
 
