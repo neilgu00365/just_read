@@ -20,7 +20,8 @@
 [BundlerによるStructure from MotionでKAZE局所特徴量を使ってみた](http://daily.belltail.jp/?p=1387)  
 [A-KAZE github](https://github.com/pablofdezalc/akaze)  
 [ORB使ってみた(ORBと比較&code)](http://pukulab.blog.fc2.com/blog-entry-41.html)  
-[]()
+[ORBでホモグラフィー行列推定](http://pukulab.blog.fc2.com/blog-entry-59.html)　　
+[]()  
 
 
 
