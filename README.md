@@ -24,7 +24,9 @@
 [ORBでホモグラフィー行列推定](http://pukulab.blog.fc2.com/blog-entry-59.html)  
 [カメラキャリブレーションと3次元再構成](http://opencv.jp/opencv-2svn/cpp/camera_calibration_and_3d_reconstruction.html#cv-findhomography)    
 [Camera Calibration and 3D Reconstruction](http://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html?highlight=findhomography)  
-[]()
+[特徴点追跡による動画像からの逐次三次元復元とその応用](http://yokoya.naist.jp/paper/datas/1407/SSII%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%BD%90%E8%97%A4.pdf)  
+[]()  
+
 
 
 
