@@ -60,8 +60,8 @@
 [16-385 Computer Vision-KLT Tracker](http://www.cs.cmu.edu/~16385/lectures/Lecture23.pdf)  
 [Jae Kyu Suhr-Kanade-Lucas-Tomasi Tracker.pdf](http://web.yonsei.ac.kr/jksuhr/articles/Kanade-Lucas-Tomasi%20Tracker.pdf)  
 
-
-
+###
+[OpenCV 2 Computer Vision Application programming](http://rem.webd.pl/sudoku/pdf/OpenCV%202%20Computer%20Vision%20Application%20Programming%20Cookbook.pdf) 
 
 
 
