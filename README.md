@@ -25,11 +25,40 @@
 [カメラキャリブレーションと3次元再構成](http://opencv.jp/opencv-2svn/cpp/camera_calibration_and_3d_reconstruction.html#cv-findhomography)    
 [Camera Calibration and 3D Reconstruction](http://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html?highlight=findhomography)  
 [特徴点追跡による動画像からの逐次三次元復元とその応用](http://yokoya.naist.jp/paper/datas/1407/SSII%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%BD%90%E8%97%A4.pdf)  
+[モーション解析と追跡-cv::calcOpticalFlowPyrLK](http://opencv.jp/opencv-2svn/cpp/motion_analysis_and_object_tracking.html)  
+
 
 ###RANSAC
 [OpenCV findFundamentalMat関数を詳しく調べる](http://homepage3.nifty.com/ishidate/opencv_23/opencv_23.htm)  
 [OpenCV Doc: cv::findFundamentalMat](http://opencv.jp/opencv-2svn/cpp/camera_calibration_and_3d_reconstruction.html#cv-findfundamentalmat)   
 []()  
+
+###Avi Singh - Brain4Cars
+[Monocular Visual Odometry.pdf](http://avisingh599.github.io/assets/ugp2-report.pdf)  
+[Avi Singh - github](https://github.com/avisingh599)  
+[Monocular Visual Odometry using OpenCV - Info](https://avisingh599.github.io/vision/monocular-vo/)  
+[]()  
+
+
+
+
+###CMU Lessons
+[KLT: An Implementation of the Kanade-Lucas-Tomasi Feature Tracker](http://www.ces.clemson.edu/~stb/klt/)  
+[Kris Kitani (PhD)](http://www.cs.cmu.edu/~kkitani/)  
+[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)  
+[Computer Vision -A Modern Approach](http://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Computer%20Vision%20A%20Modern%20Approach%20-%20Forsyth%20,%20Ponce.pdf)  
+[16-385 Computer Vision-cs.cmu.edu](http://www.cs.cmu.edu/~16385/)  
+[16-385 Computer Vision-Detecting Corners](http://www.cs.cmu.edu/~16385/lectures/Lecture7.pdf)  
+[16-385 Computer Vision-Designing Descriptors](http://www.cs.cmu.edu/~16385/lectures/Lecture8.pdf)  
+[16-385 Computer Vision-2D Image Transforms](http://www.cs.cmu.edu/~16385/lectures/Lecture13.pdf)  
+[16-385 Computer Vision-Filtering and convolution](http://www.cs.cmu.edu/~16385/lectures/Lecture14.pdf)  
+[16-385 Computer Vision-Two-View Geometry](http://www.cs.cmu.edu/~16385/lectures/Lecture16.pdf)  
+[16-385 Computer Vision-Pose Estimation](http://www.cs.cmu.edu/~16385/lectures/Lecture17.pdf)  
+[16-385 Computer Vision-Epipolar Geometry](http://www.cs.cmu.edu/~16385/lectures/Lecture18.pdf)  
+[16-385 Computer Vision-Reconstruction](http://www.cs.cmu.edu/~16385/lectures/Lecture19.pdf)
+[16-385 Computer Vision-Lucas-Kanade Optical Flow**](http://www.cs.cmu.edu/~16385/lectures/Lecture21.pdf)  
+[16-385 Computer Vision-KLT Tracker](http://www.cs.cmu.edu/~16385/lectures/Lecture23.pdf)  
+[Jae Kyu Suhr-Kanade-Lucas-Tomasi Tracker.pdf](http://web.yonsei.ac.kr/jksuhr/articles/Kanade-Lucas-Tomasi%20Tracker.pdf)  
 
 
 
