@@ -4,42 +4,50 @@
 [Taiwan Visa](http://web.roc-taiwan.org/jp/post/435.html)  
 [description-configure-pkg](http://www.mike.org.cn/articles/description-configure-pkg-config-pkg_config_path-of-the-relations-between/)  
 
-[OpenCVで画像の特徴抽出・マッチングを行う](http://whoopsidaisies.hatenablog.com/entry/2013/12/07/135810#DescriptorMatcher)  
-[OpenCV3.0.0-alphaの特徴抽出・マッチングまとめ](http://whoopsidaisies.hatenablog.com/entry/2014/08/20/200215)  
+
+###Just Read  
+[OpenCV 2 Computer Vision Application programming](http://rem.webd.pl/sudoku/pdf/OpenCV%202%20Computer%20Vision%20Application%20Programming%20Cookbook.pdf) 
 [OpenCV 3.1.0-dev Document](http://docs.opencv.org/master/pages.html#gsc.tab=0)  
-[About Ransac](http://ramsrigoutham.com/tag/ransac/)  
-[Common Interfaces of Descriptor Matchers](http://docs.opencv.org/2.4/modules/features2d/doc/common_interfaces_of_descriptor_matchers.html#descriptormatcher-create)  
+
+
 [画像局所特徴量と特定物体認識 - SIFTと最近のアプローチ -](http://www.vision.cs.chubu.ac.jp/cvtutorial/PDF/02SIFTandMore.pdf)  
 [AKAZE and ORB planar tracking](http://docs.opencv.org/master/dc/d16/tutorial_akaze_tracking.html#gsc.tab=0)  
-[Panorama – Image Stitching in OpenCV](http://ramsrigoutham.com/tag/ransac/)  
-[Features2D + Homography to find a known object](http://docs.opencv.org/2.4/doc/tutorials/features2d/feature_homography/feature_homography.html)  
-[ORBを用いて特徴点のマッチングを行う(ORB説明)](http://homepage3.nifty.com/ishidate/opencv_11/opencv_11.htm)  
-[OpenCV中feature2D学习——ORB和BruteForceMatcher ](http://blog.csdn.net/holybin/article/details/48776949)  
-[OpenCV中feature2D学习——FAST与SIFT/SURF/BRIEF特征提取与匹配 ](http://blog.csdn.net/holybin/article/details/44778747)   
-[二枚のカメラ画像から基礎行列を求めるのは難しい](http://homepage3.nifty.com/ishidate/opencv_19/opencv_19.htm)  
-[A Study on an Obstacles Detection System Employing a Car-mounted Camera(Camera ego-estimation)](https://ds.lib.kyutech.ac.jp/dspace/bitstream/10228/5313/1/D-231_kou_k_371.pdf)  
 [BundlerによるStructure from MotionでKAZE局所特徴量を使ってみた](http://daily.belltail.jp/?p=1387)  
 [A-KAZE github](https://github.com/pablofdezalc/akaze)  
 [ORB使ってみた-ORBと比較&code](http://pukulab.blog.fc2.com/blog-entry-41.html)    
-[ORBでホモグラフィー行列推定](http://pukulab.blog.fc2.com/blog-entry-59.html)  
-[カメラキャリブレーションと3次元再構成](http://opencv.jp/opencv-2svn/cpp/camera_calibration_and_3d_reconstruction.html#cv-findhomography)    
-[Camera Calibration and 3D Reconstruction](http://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html?highlight=findhomography)  
-[特徴点追跡による動画像からの逐次三次元復元とその応用](http://yokoya.naist.jp/paper/datas/1407/SSII%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%BD%90%E8%97%A4.pdf)  
-[モーション解析と追跡-cv::calcOpticalFlowPyrLK](http://opencv.jp/opencv-2svn/cpp/motion_analysis_and_object_tracking.html)  
+
+
+###cv::BFMatcher()  
+[Basics of Brute-Force Matcher](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_matcher/py_matcher.html)  
+[ORBを用いて特徴点のマッチングを行う(ORB説明)](http://homepage3.nifty.com/ishidate/opencv_11/opencv_11.htm)  
+[OpenCV中feature2D学习——ORB和BruteForceMatcher ](http://blog.csdn.net/holybin/article/details/48776949)  
+[OpenCV中feature2D学习——FAST与SIFT/SURF/BRIEF特征提取与匹配 ](http://blog.csdn.net/holybin/article/details/44778747)  
+[Common Interfaces of Descriptor Matchers](http://docs.opencv.org/2.4/modules/features2d/doc/common_interfaces_of_descriptor_matchers.html#descriptormatcher-create)  
+[OpenCVで画像の特徴抽出・マッチングを行う](http://whoopsidaisies.hatenablog.com/entry/2013/12/07/135810#DescriptorMatcher)  
+[OpenCV3.0.0-alphaの特徴抽出・マッチングまとめ](http://whoopsidaisies.hatenablog.com/entry/2014/08/20/200215)  
 
 
 ###RANSAC
 [OpenCV findFundamentalMat関数を詳しく調べる](http://homepage3.nifty.com/ishidate/opencv_23/opencv_23.htm)  
 [OpenCV Doc: cv::findFundamentalMat](http://opencv.jp/opencv-2svn/cpp/camera_calibration_and_3d_reconstruction.html#cv-findfundamentalmat)   
+[Features2D + Homography to find a known object](http://docs.opencv.org/2.4/doc/tutorials/features2d/feature_homography/feature_homography.html)  
+[ORBでホモグラフィー行列推定](http://pukulab.blog.fc2.com/blog-entry-59.html)  
+[About Ransac](http://ramsrigoutham.com/tag/ransac/)  
 []()  
+[カメラキャリブレーションと3次元再構成](http://opencv.jp/opencv-2svn/cpp/camera_calibration_and_3d_reconstruction.html#cv-findhomography)    
+[Camera Calibration and 3D Reconstruction](http://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html?highlight=findhomography)  
+[特徴点追跡による動画像からの逐次三次元復元とその応用](http://yokoya.naist.jp/paper/datas/1407/SSII%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%BD%90%E8%97%A4.pdf)  
+[モーション解析と追跡-cv::calcOpticalFlowPyrLK](http://opencv.jp/opencv-2svn/cpp/motion_analysis_and_object_tracking.html)  
+[二枚のカメラ画像から基礎行列を求めるのは難しい](http://homepage3.nifty.com/ishidate/opencv_19/opencv_19.htm)  
+[A Study on an Obstacles Detection System Employing a Car-mounted Camera(Camera ego-estimation)](https://ds.lib.kyutech.ac.jp/dspace/bitstream/10228/5313/1/D-231_kou_k_371.pdf)  
+[Panorama – Image Stitching in OpenCV](http://ramsrigoutham.com/tag/ransac/)  
+
 
 ###Avi Singh - Brain4Cars
 [Monocular Visual Odometry.pdf](http://avisingh599.github.io/assets/ugp2-report.pdf)  
 [Avi Singh - github](https://github.com/avisingh599)  
 [Monocular Visual Odometry using OpenCV - Info](https://avisingh599.github.io/vision/monocular-vo/)  
 []()  
-
-
 
 
 ###CMU Lessons
@@ -59,12 +67,6 @@
 [16-385 Computer Vision-Lucas-Kanade Optical Flow**](http://www.cs.cmu.edu/~16385/lectures/Lecture21.pdf)  
 [16-385 Computer Vision-KLT Tracker](http://www.cs.cmu.edu/~16385/lectures/Lecture23.pdf)  
 [Jae Kyu Suhr-Kanade-Lucas-Tomasi Tracker.pdf](http://web.yonsei.ac.kr/jksuhr/articles/Kanade-Lucas-Tomasi%20Tracker.pdf)  
-
-###
-[OpenCV 2 Computer Vision Application programming](http://rem.webd.pl/sudoku/pdf/OpenCV%202%20Computer%20Vision%20Application%20Programming%20Cookbook.pdf) 
-
-
-
 
 ---------------------------------------------------------------------------------------------
 #OpenCV-3.1.0 Install
