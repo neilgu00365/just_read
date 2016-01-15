@@ -55,7 +55,7 @@
 [16-385 Computer Vision-Two-View Geometry](http://www.cs.cmu.edu/~16385/lectures/Lecture16.pdf)  
 [16-385 Computer Vision-Pose Estimation](http://www.cs.cmu.edu/~16385/lectures/Lecture17.pdf)  
 [16-385 Computer Vision-Epipolar Geometry](http://www.cs.cmu.edu/~16385/lectures/Lecture18.pdf)  
-[16-385 Computer Vision-Reconstruction](http://www.cs.cmu.edu/~16385/lectures/Lecture19.pdf)
+[16-385 Computer Vision-Reconstruction](http://www.cs.cmu.edu/~16385/lectures/Lecture19.pdf)  
 [16-385 Computer Vision-Lucas-Kanade Optical Flow**](http://www.cs.cmu.edu/~16385/lectures/Lecture21.pdf)  
 [16-385 Computer Vision-KLT Tracker](http://www.cs.cmu.edu/~16385/lectures/Lecture23.pdf)  
 [Jae Kyu Suhr-Kanade-Lucas-Tomasi Tracker.pdf](http://web.yonsei.ac.kr/jksuhr/articles/Kanade-Lucas-Tomasi%20Tracker.pdf)  
