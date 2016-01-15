@@ -6,7 +6,7 @@
 
 
 ###Just Read  
-[OpenCV 2 Computer Vision Application programming](http://rem.webd.pl/sudoku/pdf/OpenCV%202%20Computer%20Vision%20Application%20Programming%20Cookbook.pdf) 
+[OpenCV 2 Computer Vision Application programming](http://rem.webd.pl/sudoku/pdf/OpenCV%202%20Computer%20Vision%20Application%20Programming%20Cookbook.pdf)  
 [OpenCV 3.1.0-dev Document](http://docs.opencv.org/master/pages.html#gsc.tab=0)  
 
 
