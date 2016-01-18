@@ -9,12 +9,19 @@
 [OpenCV 2 Computer Vision Application programming](http://rem.webd.pl/sudoku/pdf/OpenCV%202%20Computer%20Vision%20Application%20Programming%20Cookbook.pdf)  
 [OpenCV 3.1.0-dev Document](http://docs.opencv.org/master/pages.html#gsc.tab=0)  
 
-
+###Descriptor Infomation
 [画像局所特徴量と特定物体認識 - SIFTと最近のアプローチ -](http://www.vision.cs.chubu.ac.jp/cvtutorial/PDF/02SIFTandMore.pdf)  
 [AKAZE and ORB planar tracking](http://docs.opencv.org/master/dc/d16/tutorial_akaze_tracking.html#gsc.tab=0)  
 [BundlerによるStructure from MotionでKAZE局所特徴量を使ってみた](http://daily.belltail.jp/?p=1387)  
 [A-KAZE github](https://github.com/pablofdezalc/akaze)  
 [ORB使ってみた-ORBと比較&code](http://pukulab.blog.fc2.com/blog-entry-41.html)    
+[OpenCVでのORBによる特徴点抽出とマッチング(その1)基本的な使い方](http://independence-sys.net/main/?p=2632)  
+[いろいろな特徴検出法を試し、道路標識に応用する](http://homepage3.nifty.com/ishidate/opencv_10/opencv_10.htm)  
+[ORBを用いて特徴点のマッチングを行う](http://homepage3.nifty.com/ishidate/opencv_11/opencv_11.htm)  
+[]()  
+
+
+
 
 
 ###cv::BFMatcher()  
