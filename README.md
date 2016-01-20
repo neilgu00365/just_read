@@ -22,7 +22,7 @@
 
 ###Optical Flow
 [optflow_HS_LK SourceCode](http://opencv.jp/sample/optical_flow.html#optflowHSLK)  
-
+[LucasKanade法の導出及び特徴について](http://d.hatena.ne.jp/developer6527/20121221/1355754203)    
 
 
 
