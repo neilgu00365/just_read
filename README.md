@@ -23,7 +23,7 @@
 ###Optical Flow
 [optflow_HS_LK SourceCode](http://opencv.jp/sample/optical_flow.html#optflowHSLK)  
 [LucasKanade法の導出及び特徴について](http://d.hatena.ne.jp/developer6527/20121221/1355754203)    
-
+[Shi-Tomasi, Harris corners   and  KLT Tracker CRV ](http://www.computerrobotvision.org/2010/tutorial_day/shi_tomasi_klt_tracker_fiala.pdf)  
 
 
 
@@ -76,8 +76,8 @@
 [16-385 Computer Vision-Epipolar Geometry](http://www.cs.cmu.edu/~16385/lectures/Lecture18.pdf)  
 [16-385 Computer Vision-Reconstruction](http://www.cs.cmu.edu/~16385/lectures/Lecture19.pdf)  
 [16-385 Computer Vision-Lucas-Kanade Optical Flow**](http://www.cs.cmu.edu/~16385/lectures/Lecture21.pdf)  
-[16-385 Computer Vision-KLT Tracker](http://www.cs.cmu.edu/~16385/lectures/Lecture23.pdf)  
-[Jae Kyu Suhr-Kanade-Lucas-Tomasi Tracker.pdf](http://web.yonsei.ac.kr/jksuhr/articles/Kanade-Lucas-Tomasi%20Tracker.pdf)  
+[16-385 Computer Vision-KLT Tracker](http://www.cs.cmu.edu/~16385/lectures/Lecture23.pdf)   
+[Jae Kyu Suhr-Kanade-Lucas-Tomasi Tracker.pdf](http://web.yonsei.ac.kr/jksuhr/articles/Kanade-Lucas-Tomasi%20Tracker.pdf)   
 
 ---------------------------------------------------------------------------------------------
 #OpenCV-3.1.0 Install
