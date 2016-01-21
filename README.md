@@ -53,6 +53,11 @@
 [A Study on an Obstacles Detection System Employing a Car-mounted Camera(Camera ego-estimation)](https://ds.lib.kyutech.ac.jp/dspace/bitstream/10228/5313/1/D-231_kou_k_371.pdf)  
 [Panorama – Image Stitching in OpenCV](http://ramsrigoutham.com/tag/ransac/)  
 
+###CV::ROI Processing
+[OpenCV でのROIの指定方法について](http://oshiete.goo.ne.jp/qa/7254068.html)  
+[ROIの使い方](http://www.eml.ele.cst.nihon-u.ac.jp/~momma/wiki/wiki.cgi/OpenCV/ROI%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9.html)  
+[]()  
+
 
 ###Avi Singh - Brain4Cars
 [Monocular Visual Odometry.pdf](http://avisingh599.github.io/assets/ugp2-report.pdf)  
