@@ -20,7 +20,7 @@
 [OpenCVでのORBによる特徴点抽出とマッチング(その1)基本的な使い方](http://independence-sys.net/main/?p=2632)  
 [いろいろな特徴検出法を試し、道路標識に応用する](http://homepage3.nifty.com/ishidate/opencv_10/opencv_10.htm)  
 [ORBを用いて特徴点のマッチングを行う](http://homepage3.nifty.com/ishidate/opencv_11/opencv_11.htm)  
-[]()  
+[【特征检测】FAST特征点检测算法 ](http://blog.csdn.net/hujingshuang/article/details/46898007)    
 
 ###Optical Flow
 [optflow_HS_LK SourceCode](http://opencv.jp/sample/optical_flow.html#optflowHSLK)  
