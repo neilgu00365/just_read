@@ -54,10 +54,18 @@
 [A Study on an Obstacles Detection System Employing a Car-mounted Camera(Camera ego-estimation)](https://ds.lib.kyutech.ac.jp/dspace/bitstream/10228/5313/1/D-231_kou_k_371.pdf)  
 [Panorama – Image Stitching in OpenCV](http://ramsrigoutham.com/tag/ransac/)  
 
+###Motion Estimation  
+[Vehicle Egomotion Estimation Using Computer Vision.pdf](http://ssl.mit.edu/files/website/theses/SM-2008-PanishRobert.pdf)  
+[Fast and Accurate Structure and Motion Estimation.pdf](http://liu.diva-portal.org/smash/get/diva2:271764/FULLTEXT02.pdf)  
+[ROBUST GROUND PLANE DETECTION WITH NORMALIZED HOMOGRAPHY IN MONOCULAR SEQUENCES FROM A ROBOT PLATFORM ](http://www.public.asu.edu/~bli24/Papers/ICIP06-robot-ground-detect.pdf)   
+[Moving Obstacle Detection](http://vgl-ait.org/cvwiki/doku.php?id=opencv:tutorial:optical_flow#dokuwiki__top)  
+
+
+
 ###CV::ROI Processing
 [OpenCV でのROIの指定方法について](http://oshiete.goo.ne.jp/qa/7254068.html)  
 [ROIの使い方](http://www.eml.ele.cst.nihon-u.ac.jp/~momma/wiki/wiki.cgi/OpenCV/ROI%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9.html)  
-[]()  
+
 
 ###SFM & SLAM (Survey)  
 [Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_Joint_SFM_and_2015_CVPR_paper.pdf)  
