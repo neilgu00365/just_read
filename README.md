@@ -26,7 +26,7 @@
 [optflow_HS_LK SourceCode](http://opencv.jp/sample/optical_flow.html#optflowHSLK)  
 [LucasKanade法の導出及び特徴について](http://d.hatena.ne.jp/developer6527/20121221/1355754203)    
 [Shi-Tomasi, Harris corners   and  KLT Tracker CRV ](http://www.computerrobotvision.org/2010/tutorial_day/shi_tomasi_klt_tracker_fiala.pdf)  
-
+[Opencv学习笔记（九）光流法 ](http://blog.csdn.net/crzy_sparrow/article/details/7407604)    
 
 
 
