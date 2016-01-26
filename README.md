@@ -63,7 +63,8 @@
 [Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_Joint_SFM_and_2015_CVPR_paper.pdf)  
 [Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes](http://sunw.csail.mit.edu/papers/56_Song_SUNw.pdf)  
 [Robust Scale Estimation in Real-Time Monocular SFM for Autonomous Driving](http://www.google.com/patents/US20150117709)  
-
+[Parallel Line-based Structure from Motion by Using Omnidrectional Camera in Textureless Scene](http://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/A/A037Final.pdf)  
+[Twards Visual 3D Scene Understanding for Autonomous Driving-NEC Lab](http://www.linyq.com/Penn_industry_day_v7.pdf)    
 
 
 ###Avi Singh - Brain4Cars
