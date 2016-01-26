@@ -65,7 +65,7 @@
 [Robust Scale Estimation in Real-Time Monocular SFM for Autonomous Driving](http://www.google.com/patents/US20150117709)  
 [Parallel Line-based Structure from Motion by Using Omnidrectional Camera in Textureless Scene](http://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/A/A037Final.pdf)  
 [Twards Visual 3D Scene Understanding for Autonomous Driving-NEC Lab](http://www.linyq.com/Penn_industry_day_v7.pdf)    
-
+[More PPTs from NEC Lab](http://www.linyq.com/)    
 
 ###Avi Singh - Brain4Cars
 [Monocular Visual Odometry.pdf](http://avisingh599.github.io/assets/ugp2-report.pdf)  
