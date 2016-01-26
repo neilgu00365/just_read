@@ -29,7 +29,6 @@
 [Opencv学习笔记（九）光流法 ](http://blog.csdn.net/crzy_sparrow/article/details/7407604)    
 
 
-
 ###cv::BFMatcher()  
 [Basics of Brute-Force Matcher](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_matcher/py_matcher.html)  
 [ORBを用いて特徴点のマッチングを行う(ORB説明)](http://homepage3.nifty.com/ishidate/opencv_11/opencv_11.htm)  
@@ -59,6 +58,12 @@
 [OpenCV でのROIの指定方法について](http://oshiete.goo.ne.jp/qa/7254068.html)  
 [ROIの使い方](http://www.eml.ele.cst.nihon-u.ac.jp/~momma/wiki/wiki.cgi/OpenCV/ROI%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9.html)  
 []()  
+
+###SFM & SLAM (Survey)  
+[Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_Joint_SFM_and_2015_CVPR_paper.pdf)  
+[Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes](http://sunw.csail.mit.edu/papers/56_Song_SUNw.pdf)  
+[Robust Scale Estimation in Real-Time Monocular SFM for Autonomous Driving](http://www.google.com/patents/US20150117709)  
+
 
 
 ###Avi Singh - Brain4Cars
