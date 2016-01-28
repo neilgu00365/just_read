@@ -123,4 +123,9 @@
     /bin/bash -c 'echo "/usr/local/lib" > /etc/ld.so.conf.d/opencv.conf'
      ldconfig(这一步很重要)
     pkg-config --modversion opencv
-    pkg-config --cflags opencv
+    pkg-config --cflags opencv    
+===================================================================================================================================
+
+###OpenCV install in Windows with CodeBlocks  
+[codeblocks-13.12mingw 配置opencv-3.1.0(一)](http://m.blog.csdn.net/article/details?id=50532973)  
+[codeblocks-13.12mingw 配置opencv-3.1.0(二)](http://m.blog.csdn.net/article/details?id=50533575)  
