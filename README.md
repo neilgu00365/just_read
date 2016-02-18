@@ -23,6 +23,18 @@
 [ORBを用いて特徴点のマッチングを行う](http://homepage3.nifty.com/ishidate/opencv_11/opencv_11.htm)  
 [【特征检测】FAST特征点检测算法 ](http://blog.csdn.net/hujingshuang/article/details/46898007)    
 
+##Line Descriptor  
+[LSD: a Line Segment Detector.pdf ](http://www.ipol.im/pub/art/2012/gjmr-lsd/article.pdf)  
+[LSD: a Line Segment Detector.pdf2](http://www.ipol.im/pub/art/2012/gjmr-lsd/revisions/2012-03-24/article.pdf)  
+[LineSegmentDetector OpenCV](http://docs.opencv.org/3.0-beta/modules/imgproc/doc/feature_detection.html#linesegmentdetector)  
+[Line Features Tutorial](http://docs.opencv.org/3.0-beta/modules/line_descriptor/doc/tutorial.html)  
+[Symmetry Detection Using Feature Lines](http://people.mpi-inf.mpg.de/~sjansen/pdfs/Learning_Line_Features_eg11.pdf)  
+[Symmetry Detection Using Feature Lines Project](http://www.gris.uni-tuebingen.de/people/staff/bokeloh/project_symmetry2.html)  
+[LSD SLAM source code](https://github.com/tum-vision/lsd_slam)   
+[SLAM Tracking with Point and Line Features:Demo video](https://www.youtube.com/watch?v=y-dvCv9Fw_8)  
+[Fast Line Description for Line-based SLAM.pdf](http://www.bmva.org/bmvc/2012/BMVC/paper083/paper083.pdf)  
+
+
 ###Optical Flow
 [optflow_HS_LK SourceCode](http://opencv.jp/sample/optical_flow.html#optflowHSLK)  
 [LucasKanade法の導出及び特徴について](http://d.hatena.ne.jp/developer6527/20121221/1355754203)    
