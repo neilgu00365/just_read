@@ -34,7 +34,6 @@
 [SLAM Tracking with Point and Line Features:Demo video](https://www.youtube.com/watch?v=y-dvCv9Fw_8)  
 [Fast Line Description for Line-based SLAM.pdf](http://www.bmva.org/bmvc/2012/BMVC/paper083/paper083.pdf)  
 [A generalisable framework for saliency-based line segment detection.pdf ](http://www.sciencedirect.com/science/article/pii/S003132031500237X)  
-[A generalisable framework for saliency-based line segment detection.pdf](http://ac.els-cdn.com/S003132031500237X/1-s2.0-S003132031500237X-main.pdf?_tid=c4d3bd74-d91a-11e5-b3e4-00000aab0f26&acdnat=1456114650_1edec782d76682b9e1bc115f64a720a0)  
 [Globally Optimal 2D-3D Registration from Points or Lines Without Correspondences.pdf ](http://personal.ee.surrey.ac.uk/Personal/J.Guillemaut/publications/15/BrownICCV15.pdf)   
 
 
