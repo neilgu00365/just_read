@@ -35,6 +35,7 @@
 [Fast Line Description for Line-based SLAM.pdf](http://www.bmva.org/bmvc/2012/BMVC/paper083/paper083.pdf)  
 [A generalisable framework for saliency-based line segment detection.pdf ](http://www.sciencedirect.com/science/article/pii/S003132031500237X)  
 [Globally Optimal 2D-3D Registration from Points or Lines Without Correspondences.pdf ](http://personal.ee.surrey.ac.uk/Personal/J.Guillemaut/publications/15/BrownICCV15.pdf)   
+[A Generalisable Framework for Saliency-Based Line Segment Detection.pdf ](http://personal.ee.surrey.ac.uk/Personal/J.Guillemaut/publications/15/BrownPR15.pdf)  
 
 
 ###Optical Flow
