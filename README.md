@@ -33,7 +33,7 @@
 [LSD SLAM source code](https://github.com/tum-vision/lsd_slam)   
 [SLAM Tracking with Point and Line Features:Demo video](https://www.youtube.com/watch?v=y-dvCv9Fw_8)  
 [Fast Line Description for Line-based SLAM.pdf](http://www.bmva.org/bmvc/2012/BMVC/paper083/paper083.pdf)  
-[A generalisable framework for saliency-based line segment detection ](http://www.sciencedirect.com/science/article/pii/S003132031500237X)  
+[A generalisable framework for saliency-based line segment detection.pdf ](http://www.sciencedirect.com/science/article/pii/S003132031500237X)  
 
 
 ###Optical Flow
