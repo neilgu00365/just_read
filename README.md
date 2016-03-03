@@ -155,3 +155,6 @@
 ###OpenCV install in Windows with CodeBlocks  
 [codeblocks-13.12mingw 配置opencv-3.1.0(一)](http://m.blog.csdn.net/article/details?id=50532973)  
 [codeblocks-13.12mingw 配置opencv-3.1.0(二)](http://m.blog.csdn.net/article/details?id=50533575)  
+
+
+[Ubuntu15 + OpenCV3.1 backup](http://jingyan.baidu.com/article/cb5d6105e4519e005c2fe014.html)  
