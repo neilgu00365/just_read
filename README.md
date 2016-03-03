@@ -23,6 +23,7 @@
 [いろいろな特徴検出法を試し、道路標識に応用する](http://homepage3.nifty.com/ishidate/opencv_10/opencv_10.htm)  
 [ORBを用いて特徴点のマッチングを行う](http://homepage3.nifty.com/ishidate/opencv_11/opencv_11.htm)  
 [【特征检测】FAST特征点检测算法 ](http://blog.csdn.net/hujingshuang/article/details/46898007)    
+[***[OpenCV] いまさら局所特徴量で物体検出！？.blog](http://qiita.com/hmichu/items/f5f1c778a155c7c414fd)  
 
 ##Line Descriptor  
 [LSD: a Line Segment Detector.pdf ](http://www.ipol.im/pub/art/2012/gjmr-lsd/article.pdf)  
@@ -39,7 +40,16 @@
 [A Generalisable Framework for Saliency-Based Line Segment Detection.pdf ](http://personal.ee.surrey.ac.uk/Personal/J.Guillemaut/publications/15/BrownPR15.pdf)  
 [SLAM using 3D points and edges features.youtube](https://www.youtube.com/watch?v=XTXEKuzHZqw)  
 [Improving the Agility of Keyframe-Based SLAM.pdf](http://www.robots.ox.ac.uk/~gk/publications/KleinMurray2008ECCV.pdf)  
-
+[Line Features Tutorial OpenCV3.1](http://docs.opencv.org/trunk/df/dfa/tutorial_line_descriptor_main.html#gsc.tab=0)  
+[Fast Line Segment Detector (LSD) Google talk group](http://docs.opencv.org/trunk/df/dfa/tutorial_line_descriptor_main.html#gsc.tab=0)  
+[LineSegmentDetectorを使ってみた.blog](http://blog.livedoor.jp/juggleryou/archives/5234344.html)  
+[Line Segment Detectorで遊びたかった.blog](http://wildpie.hatenablog.com/entry/2014/10/13/213314)  
+[Line Segment Detector線分検出器で秋をおいしくいただく.blog](http://daily.belltail.jp/?p=1153)  
+[Deployment of a Point and Line Feature Localization System for an Outdoor Agriculture Vehicle.pdf](https://www.ri.cmu.edu/pub_files/2011/5/jlibbyIcra11Final.pdf)  
+[***Motion Estimation for Hybrid Cameras using Point and Line Feature Fusion.pdf](http://www.mva-org.jp/Proceedings/2011CD/papers/04-02.pdf)  
+[3D Motion Estimation & Tracking.ppt](http://www-bcf.usc.edu/~suya/Projects-old_files/docs/Slides-Pose.pdf)  
+[Robust RGB-D Odometry Using Point and Line Features.pdf](http://faculty.cs.tamu.edu/dzsong/pdfs/Lu-hybrid-ICCV2015-v13.pdf)  
+[]()  
 
 
 
@@ -67,7 +77,7 @@
 [Features2D + Homography to find a known object](http://docs.opencv.org/2.4/doc/tutorials/features2d/feature_homography/feature_homography.html)  
 [ORBでホモグラフィー行列推定](http://pukulab.blog.fc2.com/blog-entry-59.html)  
 [About Ransac](http://ramsrigoutham.com/tag/ransac/)  
-[]()  
+
 [カメラキャリブレーションと3次元再構成](http://opencv.jp/opencv-2svn/cpp/camera_calibration_and_3d_reconstruction.html#cv-findhomography)    
 [Camera Calibration and 3D Reconstruction](http://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html?highlight=findhomography)  
 [特徴点追跡による動画像からの逐次三次元復元とその応用](http://yokoya.naist.jp/paper/datas/1407/SSII%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%BD%90%E8%97%A4.pdf)  
@@ -87,6 +97,13 @@
 ###CV::ROI Processing
 [OpenCV でのROIの指定方法について](http://oshiete.goo.ne.jp/qa/7254068.html)  
 [ROIの使い方](http://www.eml.ele.cst.nihon-u.ac.jp/~momma/wiki/wiki.cgi/OpenCV/ROI%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9.html)  
+
+###Camera Calibration  
+[カメラキャリブレーション(外部+内部)](http://tessy.org/wiki/index.php?%A5%AB%A5%E1%A5%E9%A5%AD%A5%E3%A5%EA%A5%D6%A5%EC%A1%BC%A5%B7%A5%E7%A5%F3(%B3%B0%C9%F4%2B%C6%E2%C9%F4))  
+[カメラキャリブレーションの結果について](http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1062693080)  
+[カメラキャリブレーション_OpenCV](http://opencv.jp/sample/camera_calibration.html#calibration)  
+[]()  
+
 
 
 ###SFM & SLAM (Survey)  
