@@ -117,6 +117,9 @@
 [ATAM POSTER](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7328103&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7327075%2F7328030%2F07328103.pdf%3Farnumber%3D7328103)  
 [ATAM reference blog](http://blog.livedoor.jp/tmako123-programming/archives/45862079.html)  
 [An Analysis of Visual Mono-SLAM .master thesis](http://www-lehre.inf.uos.de/~svalbrec/documents/master_thesis.pdf)  
+[Monocular SLAM based on the EKF SLAM approaches](http://vision.ia.ac.cn/Students/gzp/monocularslam.html)  
+[]()  
+
 
 
 
