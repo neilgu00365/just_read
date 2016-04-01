@@ -51,6 +51,24 @@
 [Robust RGB-D Odometry Using Point and Line Features.pdf](http://faculty.cs.tamu.edu/dzsong/pdfs/Lu-hybrid-ICCV2015-v13.pdf)  
 []()  
 
+[特徴線の計算量計測予定、OpenCV Sample Sourcecode](http://docs.opencv.org/3.1.0/d8/dd4/lsd_lines_8cpp-example.html#gsc.tab=0)  
+[**LSD在opencv中的实现](http://blog.csdn.net/mollylee1011/article/details/47292783)  
+[**论文回顾之一 一种新的直线段检测算法---LSD：a Line Segment Detector](http://blog.csdn.net/polly_yang/article/details/10085401)  
+[**LSD:一种直线检测算法简介](http://blog.csdn.net/carson2005/article/details/9326847)  
+[*Line3D++ - Multi-View Stereo using Line Segments](https://github.com/manhofer/Line3Dpp)  
+[Line-based 3D Reconstruction of WiryObjects](https://online.tugraz.at/tug_online/voe_main2.getVollText?pDocumentNr=296228&pCurrPk=70326)  
+[Line3D: Efficient 3D Scene Abstraction for the Built Environment](https://pdfs.semanticscholar.org/52a5/f2759733b6d296760ca0309aa5bdb454ec3e.pdf)  
+[Incremental Line-based 3D Reconstruction using Geometric Constraints](https://pdfs.semanticscholar.org/19b4/153c80733be82b74083fbae3d0e2bde161d1.pdf)  
+[Improving Sparse 3D Models for Man-Made Environments Using Line-Based 3D Reconstruction](https://pdfs.semanticscholar.org/2c62/64a8f7ae2f8b69e9125b243ba73848e5fc0c.pdf)  
+[3-D Line Segment Reconstruction using an In-Vehicle Camera for Free Space Detection](http://www.murase.nuie.nagoya-u.ac.jp/publications/548-pdf.pdf)  
+[Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_Joint_SFM_and_2015_CVPR_paper.pdf)  
+[Structure and Motion from Line Segments in Multiple Images](http://www.cis.upenn.edu/~cjtaylor/PUBLICATIONS/pdfs/TaylorPAMI95.pdf)  
+[]()  
+
+
+
+
+
 
 
 ###Optical Flow
