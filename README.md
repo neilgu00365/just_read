@@ -64,6 +64,8 @@
 [Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_Joint_SFM_and_2015_CVPR_paper.pdf)  
 [Structure and Motion from Line Segments in Multiple Images](http://www.cis.upenn.edu/~cjtaylor/PUBLICATIONS/pdfs/TaylorPAMI95.pdf)  
 []()  
+[OpenCV github: opencv_contrib/modules/line_descriptor/samples/matching.cpp
+***](https://github.com/Itseez/opencv_contrib/blob/master/modules/line_descriptor/samples/matching.cpp)  
 [OpenCV modules/line_descriptor/samples/matching.cpp***** ](https://sourceforge.net/p/emgucv/opencv_contrib/ci/master/tree/modules/line_descriptor/samples/matching.cpp#l195)  
 [Three-Dimensional Reconstruction of Points and Lines With Unknown Correspondence Across Images.pdf](http://www.cse.psu.edu/~rtc12/Papers/cheng01IJCV.pdf)  
 [Feature Line Based Building Detection and Reconstruction from Oblique Airborne Imagery.pdf](http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-4-W5/199/2015/isprsarchives-XL-4-W5-199-2015.pdf)  
