@@ -64,6 +64,20 @@
 [Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_Joint_SFM_and_2015_CVPR_paper.pdf)  
 [Structure and Motion from Line Segments in Multiple Images](http://www.cis.upenn.edu/~cjtaylor/PUBLICATIONS/pdfs/TaylorPAMI95.pdf)  
 []()  
+[OpenCV modules/line_descriptor/samples/matching.cpp***** ](https://sourceforge.net/p/emgucv/opencv_contrib/ci/master/tree/modules/line_descriptor/samples/matching.cpp#l195)  
+[Three-Dimensional Reconstruction of Points and Lines With Unknown Correspondence Across Images.pdf](http://www.cse.psu.edu/~rtc12/Papers/cheng01IJCV.pdf)  
+[Feature Line Based Building Detection and Reconstruction from Oblique Airborne Imagery.pdf](http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-4-W5/199/2015/isprsarchives-XL-4-W5-199-2015.pdf)  
+[Robust Tracking  and  Monocular 3D Reconstruction  of  Line-Based Features  in  Urban Environments.pdf**](http://www6.in.tum.de/Main/Publications/Schoenherr2010d.pdf)  
+[Automatic Line Matching and 3D Reconstruction of Buildings from Multiple Views.pdf**](https://www.robots.ox.ac.uk/~vgg/publications/1999/Baillard99a/baillard99a.pdf)  
+[Matching, Reconstructing and Grouping 3D Lines From Multiple Views Using Uncertain Projective Geometry.pdf**](http://www.ipb.uni-bonn.de/fileadmin/publication/pdf/Heuel2001Matching.pdf)  
+[Line-Sweep: Cross-Ratio for Wide-Baseline Matching and 3D Reconstruction.pdf*](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ramalingam_Line-Sweep_Cross-Ratio_For_2015_CVPR_paper.pdf)  
+[]()  
+[]()  
+
+
+
+
+
 
 
 
