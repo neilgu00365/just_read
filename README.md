@@ -60,7 +60,7 @@
 [*Line3D++ - Multi-View Stereo using Line Segments](https://github.com/manhofer/Line3Dpp)  
 [Line-based 3D Reconstruction of WiryObjects](https://online.tugraz.at/tug_online/voe_main2.getVollText?pDocumentNr=296228&pCurrPk=70326)  
 [Line3D: Efficient 3D Scene Abstraction for the Built Environment](https://pdfs.semanticscholar.org/52a5/f2759733b6d296760ca0309aa5bdb454ec3e.pdf)  
-[Incremental Line-based 3D Reconstruction using Geometric Constraints](https://pdfs.semanticscholar.org/19b4/153c80733be82b74083fbae3d0e2bde161d1.pdf)  
+[Incremental Line-based 3D Reconstruction using Geometric Constraints***](https://pdfs.semanticscholar.org/19b4/153c80733be82b74083fbae3d0e2bde161d1.pdf)  
 [Improving Sparse 3D Models for Man-Made Environments Using Line-Based 3D Reconstruction](https://pdfs.semanticscholar.org/2c62/64a8f7ae2f8b69e9125b243ba73848e5fc0c.pdf)  
 [3-D Line Segment Reconstruction using an In-Vehicle Camera for Free Space Detection](http://www.murase.nuie.nagoya-u.ac.jp/publications/548-pdf.pdf)  
 [Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_Joint_SFM_and_2015_CVPR_paper.pdf)  
@@ -75,16 +75,11 @@
 [Automatic Line Matching and 3D Reconstruction of Buildings from Multiple Views.pdf**](https://www.robots.ox.ac.uk/~vgg/publications/1999/Baillard99a/baillard99a.pdf)  
 [Matching, Reconstructing and Grouping 3D Lines From Multiple Views Using Uncertain Projective Geometry.pdf**](http://www.ipb.uni-bonn.de/fileadmin/publication/pdf/Heuel2001Matching.pdf)  
 [Line-Sweep: Cross-Ratio for Wide-Baseline Matching and 3D Reconstruction.pdf*](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ramalingam_Line-Sweep_Cross-Ratio_For_2015_CVPR_paper.pdf)  
+[mtamburrano/LBD_Descriptor.github](https://github.com/mtamburrano/LBD_Descriptor)  
+[LBP.homepage](http://www.mip.informatik.uni-kiel.de/tiki-index.php?page=Lilian+Zhang)  
 []()  
 []()  
-
-
-
-
-
-
-
-
+[]()  
 
 
 
