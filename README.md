@@ -81,6 +81,22 @@
 []()  
 []()  
 
+###Plücker coordinates LineSLAM  
+[Plücker coordinates.Wikipedia](https://en.wikipedia.org/wiki/Pl%C3%BCcker_coordinates)  
+[一般人のためのプリュッカー座標系 パート1](http://qpp.bitbucket.org/translation/plcker_coordinates_for_the_rest_of_us_part_1/)  
+[ガウス写像の数学 (幾何学特論４・幾何学講義８) 質問の回答](http://www.math.sci.hokudai.ac.jp/~ishikawa/gauss/gauss1.pdf#search='Pl%C3%BCcker+coordinates')  
+[Reconstructing a 3D Line from a Single Catadioptric Image.pdf](http://mesh.brown.edu/dlanman/research/3DPVT06/3DPVT06-Lanman-Reconstruction.pdf#search='Pl%C3%BCcker+coordinates')  
+[yan-lu/LineSLAM--Github](https://github.com/yan-lu/LineSLAM/blob/master/src/feature_adjuster.cpp)  
+[LineSLAM: Visual Real Time Localization Using Lines and UKF.pdf](http://gsyc.es/jmplaza/papers/2013-robot2013-lineslam.pdf)  
+[Real-Time Monocular SLAM with Straight Lines.pdf](https://www.doc.ic.ac.uk/~ajd/Publications/smith_etal_bmvc2006.pdf)  
+[MonoSLAM: Real-Time Single Camera SLAM.pdf](http://media.adelaide.edu.au/acvt/Publications/2007/2007-MonoSLAM-%20Real-Time%20Single%20Camera%20SLAM.pdf)  
+[Visual SLAM with Line and Corner Features](https://pdfs.semanticscholar.org/15da/e40683d0265339b745db29c4c497f76fcc6d.pdf)  
+[Camera Pose Estimation from Lines using Plücker Coordinates.pdf](http://cadik.posvete.cz/papers/bmvc15LnP/BMVC2015id125_Camera-Pose-Estimation-from-Lines-using-Plucker-Coordinates.pdf)  
+
+
+
+
+
 
 
 
