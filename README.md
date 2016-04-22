@@ -78,7 +78,8 @@
 [mtamburrano/LBD_Descriptor.github](https://github.com/mtamburrano/LBD_Descriptor)  
 [LBP.homepage](http://www.mip.informatik.uni-kiel.de/tiki-index.php?page=Lilian+Zhang)  
 []()  
-[]()  
+
+[Edge Drawing – A Combined Real-Time Edge/Edge Segment Detector](http://ceng.anadolu.edu.tr/CV/EdgeDrawing/)  
 []()  
 
 ###Plücker coordinates LineSLAM  
@@ -93,6 +94,14 @@
 [Visual SLAM with Line and Corner Features](https://pdfs.semanticscholar.org/15da/e40683d0265339b745db29c4c497f76fcc6d.pdf)  
 [Camera Pose Estimation from Lines using Plücker Coordinates.pdf](http://cadik.posvete.cz/papers/bmvc15LnP/BMVC2015id125_Camera-Pose-Estimation-from-Lines-using-Plucker-Coordinates.pdf)  
 
+###Epipolar Geometry  
+[2008 Chapter 13 Structure from motion](http://mi.eng.cam.ac.uk/~cipolla/publications/contributionToEditedBook/2008-SFM-chapters.pdf)  
+[Dense Real-time 3D Reconstruction from Multiple Images](https://researchbank.rmit.edu.au/eserv/rmit:160688/Ling.pdf)  
+[Skew Symmetry Detection and Reconstruction](http://www.cs.technion.ac.il/~eyudin/AppliedGeometrySeminarReport.pdf)  
+[SELF-CALIBRATION AND METRIC 3D RECONSTRUCTION FROM UNCALIBRATED IMAGE SEQUENCES](https://www.inf.ethz.ch/personal/pomarc/pubs/PollefeysPhD.pdf)  
+[Projective reconstruction from line-correspondences in multiple uncalibrated images](http://www.eee.hku.hk/~wktang/papers/tang06projectivePR.pdf)  
+[]()  
+[]()  
 
 
 
