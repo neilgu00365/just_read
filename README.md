@@ -104,11 +104,6 @@
 []()  
 
 
-
-
-
-
-
 ###Optical Flow
 [optflow_HS_LK SourceCode](http://opencv.jp/sample/optical_flow.html#optflowHSLK)  
 [LucasKanade法の導出及び特徴について](http://d.hatena.ne.jp/developer6527/20121221/1355754203)    
@@ -176,6 +171,11 @@
 [Monocular SLAM based on the EKF SLAM approaches](http://vision.ia.ac.cn/Students/gzp/monocularslam.html)  
 [SSIIチュートリアル佐藤＿奈良先端.pdf](http://yokoya.naist.jp/paper/datas/1407/SSII%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%BD%90%E8%97%A4.pdf)  
 
+###Bundler Ajustment
+[]()  
+[]()  
+[]()  
+[]()  
 
 
 
@@ -204,6 +204,7 @@
 [16-385 Computer Vision-Lucas-Kanade Optical Flow**](http://www.cs.cmu.edu/~16385/lectures/Lecture21.pdf)  
 [16-385 Computer Vision-KLT Tracker](http://www.cs.cmu.edu/~16385/lectures/Lecture23.pdf)   
 [Jae Kyu Suhr-Kanade-Lucas-Tomasi Tracker.pdf](http://web.yonsei.ac.kr/jksuhr/articles/Kanade-Lucas-Tomasi%20Tracker.pdf)   
+
 
 ---------------------------------------------------------------------------------------------
 #OpenCV-3.1.0 Install
