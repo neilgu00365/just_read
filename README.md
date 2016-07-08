@@ -77,10 +77,14 @@
 [Line-Sweep: Cross-Ratio for Wide-Baseline Matching and 3D Reconstruction.pdf*](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ramalingam_Line-Sweep_Cross-Ratio_For_2015_CVPR_paper.pdf)  
 [mtamburrano/LBD_Descriptor.github](https://github.com/mtamburrano/LBD_Descriptor)  
 [LBP.homepage](http://www.mip.informatik.uni-kiel.de/tiki-index.php?page=Lilian+Zhang)  
-[]()  
-
 [Edge Drawing – A Combined Real-Time Edge/Edge Segment Detector](http://ceng.anadolu.edu.tr/CV/EdgeDrawing/)  
-[]()  
+[Keio_Fast Line Description for Line-based SLAM](http://www.bmva.org/bmvc/2012/BMVC/paper083/paper083.pdf)  
+[Keio_線分記述子LEHFを用いた実時間 SLAM](http://hvrl.ics.keio.ac.jp/paper/pdf/japanese_Journal/2012/Hirose_VRSJ.pdf)  
+[Keio_線分記述子LEHFを用いた実時間 SLAM_Poster](http://www.nikko-pb.co.jp/nk_comm/mok08/html/images/1307g36.pdf)  
+[U-Tokyo_全方位画像列からの特徴点および直線エッジ情報を併用したStructure from Motionによる3次元環境モデル生成](http://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/A/A029Final.pdf)  
+[U-Tokyo_全方位画像中の特徴点と直線エッジの同時拘束と基線長の自動決定に基づくStructure from Motionによる 三次元環境モデル生成](http://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/A/A035Final.pdf)  
+[U-Tokyo_全方位画像列を用いた Line-based Structure from Motion](http://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/E/E165Final.pdf)  
+
 
 ###Plücker coordinates LineSLAM  
 [Plücker coordinates.Wikipedia](https://en.wikipedia.org/wiki/Pl%C3%BCcker_coordinates)  
@@ -100,8 +104,23 @@
 [Skew Symmetry Detection and Reconstruction](http://www.cs.technion.ac.il/~eyudin/AppliedGeometrySeminarReport.pdf)  
 [SELF-CALIBRATION AND METRIC 3D RECONSTRUCTION FROM UNCALIBRATED IMAGE SEQUENCES](https://www.inf.ethz.ch/personal/pomarc/pubs/PollefeysPhD.pdf)  
 [Projective reconstruction from line-correspondences in multiple uncalibrated images](http://www.eee.hku.hk/~wktang/papers/tang06projectivePR.pdf)  
+
+[Multiple View Geometry_book_Epipolar Geometry and the Fundamental Matrix](https://www.robots.ox.ac.uk/~vgg/hzbook/hzbook2/HZepipolar.pdf)  
+[Multiple View Geometry_book_The Trifocal Tensor](https://www.robots.ox.ac.uk/~vgg/hzbook/hzbook2/HZtrifocal.pdf)  
+[Trifocalテンソルを用いた画像のマッチング](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=53176&item_no=1&page_id=13&block_id=8)  
+
+
+###OpenMVG
+[openMVG.git](https://github.com/openMVG/openMVG)  
+[openMVG_document](http://openmvg.readthedocs.io/en/latest/software/SfM/SfM/)  
+[SfM(Structure from Motion) - 瓶詰堂日記](http://www.binzume.net/diary/2014-09-24:A1)  
+[openMVGのビルド windows編](http://teraken.blogspot.jp/2014/06/openmvg-windows.html)  
+[openMVG_document.pdf](https://media.readthedocs.org/pdf/openmvg/latest/openmvg.pdf)  
+
+[OpenMVG_AC-RANSAC](http://www.ipol.im/pub/art/2012/mmm-oh/article_lr.pdf)  
+[OpenMVG_Union-Find Tracker](http://imagine.enpc.fr/~moulonp/publis/featureTracking_CVMP12.pdf)  
 []()  
-[]()  
+
 
 
 ###Optical Flow
