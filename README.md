@@ -108,6 +108,11 @@
 [Multiple View Geometry_book_Epipolar Geometry and the Fundamental Matrix](https://www.robots.ox.ac.uk/~vgg/hzbook/hzbook2/HZepipolar.pdf)  
 [Multiple View Geometry_book_The Trifocal Tensor](https://www.robots.ox.ac.uk/~vgg/hzbook/hzbook2/HZtrifocal.pdf)  
 [Trifocalテンソルを用いた画像のマッチング](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=53176&item_no=1&page_id=13&block_id=8)  
+[Automatic Camera Recobery for Closed or Open Image Sequences_(fitzgibbon98)](https://www.robots.ox.ac.uk/~vgg/publications/1998/Fitzgibbon98/fitzgibbon98.pdf)  
+[]()  
+[]()  
+
+
 
 
 ###OpenMVG
