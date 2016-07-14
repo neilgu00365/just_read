@@ -7,6 +7,8 @@
 [ここはwiki.ruka-f.net個人的に日頃調べたことを備忘録として残しておくためのWikiです](http://wiki.ruka-f.net/index.php?TopPage)  
 [wiki.ruka-f.net人検知](http://wiki.ruka-f.net/index.php?%E4%BA%BA%E6%A4%9C%E7%9F%A5)    
 [练习37：哈希表](https://wizardforcel.gitbooks.io/lcthw/content/ex37.html)  
+[MVG __ CHinese](http://nlpr-web.ia.ac.cn/course/viewgeometry.pdf)  
+
 
 ###Just Read  
 [OpenCV 2 Computer Vision Application programming](http://rem.webd.pl/sudoku/pdf/OpenCV%202%20Computer%20Vision%20Application%20Programming%20Cookbook.pdf)  
