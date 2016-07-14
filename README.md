@@ -112,7 +112,12 @@
 [Trifocalテンソルを用いた画像のマッチング](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=53176&item_no=1&page_id=13&block_id=8)  
 [Automatic Camera Recobery for Closed or Open Image Sequences_(fitzgibbon98)](https://www.robots.ox.ac.uk/~vgg/publications/1998/Fitzgibbon98/fitzgibbon98.pdf)  
 []()  
+[Learning Epipolar Geometry](http://www.ai.sri.com/~luong/research/Meta3DViewer/EpipolarGeo.html)  
+[Geometric Camera Parameters](https://www.cse.unr.edu/~bebis/CS791E/Notes/CameraParameters.pdf)  
+[Dissecting the Camera Matrix, Part 2: The Extrinsic Matrix](http://ksimek.github.io/2012/08/22/extrinsic/)  
 []()  
+
+
 
 
 
@@ -197,12 +202,20 @@
 [Monocular SLAM based on the EKF SLAM approaches](http://vision.ia.ac.cn/Students/gzp/monocularslam.html)  
 [SSIIチュートリアル佐藤＿奈良先端.pdf](http://yokoya.naist.jp/paper/datas/1407/SSII%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%BD%90%E8%97%A4.pdf)  
 
+[LSD-SLAM: Large-Scale Direct Monocular SLAM](http://vision.in.tum.de/research/vslam/lsdslam?redirect=2)  
+[Visual-based guidance for autonomous vehicles _ sourcecode](https://futuretechmaker.com/projects/cv_autonomous_car/)  
+
+
 ###Bundler Ajustment
 [Coursera - Bundle Ajustment](https://www.coursera.org/learn/robotics-perception/lecture/yuawM/bundle-adjustment-iii)    
-[]()  
-[]()  
+[局所的バンドル調整を用いた自己運動推定における累積誤差の軽減](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=17979&item_no=1&page_id=13&block_id=8)  
+[Sparse Bundle Adjustment for Dense Data_ Willow Garage](https://www.doc.ic.ac.uk/livedensereconstruction/Materials/Konolige_talk.pdf)  
 []()  
 
+###DataBase
+[]()  
+[Synthetic Data Generation & Domain Adaptation _ Visual World](http://adas.cvc.uab.es/site/elektra/enigma-portfolio/synthetic-data-generation-domain-adaptation/)  
+[]()  
 
 
 
