@@ -205,6 +205,17 @@
 [LSD-SLAM: Large-Scale Direct Monocular SLAM](http://vision.in.tum.de/research/vslam/lsdslam?redirect=2)  
 [Visual-based guidance for autonomous vehicles _ sourcecode](https://futuretechmaker.com/projects/cv_autonomous_car/)  
 
+###Kalman Filter  
+[The Extended Kalman Filter: An Interactive Tutorial for Non-Experts](http://home.wlu.edu/~levys/kalman_tutorial/)  
+[Understanding and Applying Kalman Filtering](http://biorobotics.ri.cmu.edu/papers/sbp_papers/integrated3/kleeman_kalman_basics.pdf)  
+[Simulataneous localization and mapping with the extended Kalman filter](http://www.iri.upc.edu/people/jsola/JoanSola/objectes/curs_SLAM/SLAM2D/SLAM%20course.pdf)  
+[Extended Kalman Filter](http://ais.informatik.uni-freiburg.de/teaching/ws12/mapping/pdf/slam03-ekf.pdf)  
+[OpenCV how to use the KalmanFilter class as ExtendedKF ](http://stackoverflow.com/questions/21533093/opencv-how-to-use-the-kalmanfilter-class-as-extendedkf)  
+[]()  
+
+
+
+
 
 ###Bundler Ajustment
 [Coursera - Bundle Ajustment](https://www.coursera.org/learn/robotics-perception/lecture/yuawM/bundle-adjustment-iii)    
