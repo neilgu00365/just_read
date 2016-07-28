@@ -207,7 +207,7 @@
 [Visual-based guidance for autonomous vehicles _ sourcecode](https://futuretechmaker.com/projects/cv_autonomous_car/)  
 
 [Videantis _ Hanover uvi](http://www.tnt.uni-hannover.de/project/motionestimation/)  
-[]()  
+[3-D SCENE RECONSTRUCTION FROM LINE CORRESPONDENCES BETWEEN MULTIPLE VIEWS .pdf ](https://etd.ohiolink.edu/!etd.send_file?accession=wright1418675269&disposition=inline)  
 
 
 
