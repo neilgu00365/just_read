@@ -87,6 +87,7 @@
 [U-Tokyo_全方位画像中の特徴点と直線エッジの同時拘束と基線長の自動決定に基づくStructure from Motionによる 三次元環境モデル生成](http://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/A/A035Final.pdf)  
 [U-Tokyo_全方位画像列を用いた Line-based Structure from Motion](http://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/E/E165Final.pdf)  
 
+[Line Feature Matching Method from OpenCV _ radius](http://docs.opencv.org/3.1.0/df/dfa/tutorial_line_descriptor_main.html#gsc.tab=0)  
 
 ###Plücker coordinates LineSLAM  
 [Plücker coordinates.Wikipedia](https://en.wikipedia.org/wiki/Pl%C3%BCcker_coordinates)  
