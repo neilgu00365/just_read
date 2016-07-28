@@ -206,6 +206,9 @@
 [LSD-SLAM: Large-Scale Direct Monocular SLAM](http://vision.in.tum.de/research/vslam/lsdslam?redirect=2)  
 [Visual-based guidance for autonomous vehicles _ sourcecode](https://futuretechmaker.com/projects/cv_autonomous_car/)  
 
+[Videantis _ Hanover uvi](http://www.tnt.uni-hannover.de/project/motionestimation/)  
+[]()  
+
 
 
 ###Kalman Filter  
