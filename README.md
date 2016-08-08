@@ -117,7 +117,8 @@
 [Geometric Camera Parameters](https://www.cse.unr.edu/~bebis/CS791E/Notes/CameraParameters.pdf)  
 [Dissecting the Camera Matrix, Part 2: The Extrinsic Matrix](http://ksimek.github.io/2012/08/22/extrinsic/)  
 []()  
-
+[カメラキャリブレーション*****](http://www.wakayama-u.ac.jp/~wuhy/CV/CV2010/CV10.pdf)  
+[OpenCV Basics and Camera Calibration](https://cvg.ethz.ch/teaching/cvl/2012/Tutorial-OpenCV.pdf)  
 
 
 
