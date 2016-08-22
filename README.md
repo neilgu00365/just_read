@@ -17,7 +17,7 @@
 [OpenCV Source Code](http://opencv.jp/cookbook/opencv_img.html)  
 [-Learning OpenCV !!-](http://www.cse.iitk.ac.in/users/vision/dipakmj/papers/OReilly%20Learning%20OpenCV.pdf)  
 
-###Descriptor Infomation
+###Descriptor Infomation  
 [画像局所特徴量と特定物体認識 - SIFTと最近のアプローチ -](http://www.vision.cs.chubu.ac.jp/cvtutorial/PDF/02SIFTandMore.pdf)  
 [AKAZE and ORB planar tracking](http://docs.opencv.org/master/dc/d16/tutorial_akaze_tracking.html#gsc.tab=0)  
 [BundlerによるStructure from MotionでKAZE局所特徴量を使ってみた](http://daily.belltail.jp/?p=1387)  
@@ -104,7 +104,7 @@
 
 
 
-###Plücker coordinates LineSLAM  
+##Plücker coordinates LineSLAM  
 [Plücker coordinates.Wikipedia](https://en.wikipedia.org/wiki/Pl%C3%BCcker_coordinates)  
 [一般人のためのプリュッカー座標系 パート1](http://qpp.bitbucket.org/translation/plcker_coordinates_for_the_rest_of_us_part_1/)  
 [ガウス写像の数学 (幾何学特論４・幾何学講義８) 質問の回答](http://www.math.sci.hokudai.ac.jp/~ishikawa/gauss/gauss1.pdf#search='Pl%C3%BCcker+coordinates')  
@@ -116,7 +116,7 @@
 [Visual SLAM with Line and Corner Features](https://pdfs.semanticscholar.org/15da/e40683d0265339b745db29c4c497f76fcc6d.pdf)  
 [Camera Pose Estimation from Lines using Plücker Coordinates.pdf](http://cadik.posvete.cz/papers/bmvc15LnP/BMVC2015id125_Camera-Pose-Estimation-from-Lines-using-Plucker-Coordinates.pdf)  
 
-###Epipolar Geometry  
+##Epipolar Geometry  
 [2008 Chapter 13 Structure from motion](http://mi.eng.cam.ac.uk/~cipolla/publications/contributionToEditedBook/2008-SFM-chapters.pdf)  
 [Dense Real-time 3D Reconstruction from Multiple Images](https://researchbank.rmit.edu.au/eserv/rmit:160688/Ling.pdf)  
 [Skew Symmetry Detection and Reconstruction](http://www.cs.technion.ac.il/~eyudin/AppliedGeometrySeminarReport.pdf)  
@@ -139,7 +139,7 @@
 
 
 
-###OpenMVG
+##OpenMVG  
 [openMVG.git](https://github.com/openMVG/openMVG)  
 [openMVG_document](http://openmvg.readthedocs.io/en/latest/software/SfM/SfM/)  
 [SfM(Structure from Motion) - 瓶詰堂日記](http://www.binzume.net/diary/2014-09-24:A1)  
@@ -152,7 +152,7 @@
 
 
 
-###Optical Flow
+##Optical Flow  
 [optflow_HS_LK SourceCode](http://opencv.jp/sample/optical_flow.html#optflowHSLK)  
 [LucasKanade法の導出及び特徴について](http://d.hatena.ne.jp/developer6527/20121221/1355754203)    
 [Shi-Tomasi, Harris corners   and  KLT Tracker CRV ](http://www.computerrobotvision.org/2010/tutorial_day/shi_tomasi_klt_tracker_fiala.pdf)  
@@ -160,7 +160,7 @@
 [Gaussian Pyramid..](http://www.cs.toronto.edu/~kyros/courses/320/Lectures.2013s/lecture.2013s.09.pdf)  
 
 
-###cv::BFMatcher()  
+##cv::BFMatcher()  
 [Basics of Brute-Force Matcher](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_matcher/py_matcher.html)  
 [ORBを用いて特徴点のマッチングを行う(ORB説明)](http://homepage3.nifty.com/ishidate/opencv_11/opencv_11.htm)  
 [OpenCV中feature2D学习——ORB和BruteForceMatcher ](http://blog.csdn.net/holybin/article/details/48776949)  
@@ -170,7 +170,7 @@
 [OpenCV3.0.0-alphaの特徴抽出・マッチングまとめ](http://whoopsidaisies.hatenablog.com/entry/2014/08/20/200215)  
 
 
-###RANSAC
+##RANSAC  
 [OpenCV findFundamentalMat関数を詳しく調べる](http://homepage3.nifty.com/ishidate/opencv_23/opencv_23.htm)  
 [OpenCV Doc: cv::findFundamentalMat](http://opencv.jp/opencv-2svn/cpp/camera_calibration_and_3d_reconstruction.html#cv-findfundamentalmat)   
 [Features2D + Homography to find a known object](http://docs.opencv.org/2.4/doc/tutorials/features2d/feature_homography/feature_homography.html)  
@@ -185,7 +185,7 @@
 [A Study on an Obstacles Detection System Employing a Car-mounted Camera(Camera ego-estimation)](https://ds.lib.kyutech.ac.jp/dspace/bitstream/10228/5313/1/D-231_kou_k_371.pdf)  
 [Panorama – Image Stitching in OpenCV](http://ramsrigoutham.com/tag/ransac/)  
 
-###Motion Estimation  
+##Motion Estimation  
 [Vehicle Egomotion Estimation Using Computer Vision.pdf](http://ssl.mit.edu/files/website/theses/SM-2008-PanishRobert.pdf)  
 [Fast and Accurate Structure and Motion Estimation.pdf](http://liu.diva-portal.org/smash/get/diva2:271764/FULLTEXT02.pdf)  
 [ROBUST GROUND PLANE DETECTION WITH NORMALIZED HOMOGRAPHY IN MONOCULAR SEQUENCES FROM A ROBOT PLATFORM ](http://www.public.asu.edu/~bli24/Papers/ICIP06-robot-ground-detect.pdf)   
@@ -193,7 +193,7 @@
 
 
 
-###CV::ROI Processing
+##CV::ROI Processing  
 [OpenCV でのROIの指定方法について](http://oshiete.goo.ne.jp/qa/7254068.html)  
 [ROIの使い方](http://www.eml.ele.cst.nihon-u.ac.jp/~momma/wiki/wiki.cgi/OpenCV/ROI%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9.html)  
 
@@ -205,7 +205,7 @@
 
 
 
-###SFM & SLAM (Survey)  
+##SFM & SLAM (Survey)  
 [Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_Joint_SFM_and_2015_CVPR_paper.pdf)  
 [Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes](http://sunw.csail.mit.edu/papers/56_Song_SUNw.pdf)  
 [Robust Scale Estimation in Real-Time Monocular SFM for Autonomous Driving](http://www.google.com/patents/US20150117709)  
@@ -227,7 +227,7 @@
 
 
 
-###Kalman Filter  
+##Kalman Filter  
 [The Extended Kalman Filter: An Interactive Tutorial for Non-Experts](http://home.wlu.edu/~levys/kalman_tutorial/)  
 [Understanding and Applying Kalman Filtering](http://biorobotics.ri.cmu.edu/papers/sbp_papers/integrated3/kleeman_kalman_basics.pdf)  
 [Simulataneous localization and mapping with the extended Kalman filter](http://www.iri.upc.edu/people/jsola/JoanSola/objectes/curs_SLAM/SLAM2D/SLAM%20course.pdf)  
@@ -239,14 +239,14 @@
 
 
 
-###Bundler Ajustment
+##Bundler Ajustment  
 [Coursera - Bundle Ajustment](https://www.coursera.org/learn/robotics-perception/lecture/yuawM/bundle-adjustment-iii)    
 [局所的バンドル調整を用いた自己運動推定における累積誤差の軽減](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=17979&item_no=1&page_id=13&block_id=8)  
 [Sparse Bundle Adjustment for Dense Data_ Willow Garage](https://www.doc.ic.ac.uk/livedensereconstruction/Materials/Konolige_talk.pdf)  
 []()  
 
 
-###PCL  
+##PCL  
 [PCLで取得した点群データをPCDデータとして保存](http://www.pointcloud.jp/blog_n13/)  
 [【PCL入門】 Point Cloud Library のインストール](http://predator.hateblo.jp/entry/2014/10/16/175442)  
 [Point Cloud Library 1.7.2 × VS2013 な環境構築 ＆ OpenNIGrabber を使わずに点群を表示してみた](http://tips.hecomi.com/entry/2014/05/11/214401)  
@@ -257,21 +257,21 @@
 
 
 
-###DataBase
+##DataBase  
 []()  
 [Synthetic Data Generation & Domain Adaptation _ Visual World](http://adas.cvc.uab.es/site/elektra/enigma-portfolio/synthetic-data-generation-domain-adaptation/)  
 []()  
 
 
 
-###Avi Singh - Brain4Cars
+##Avi Singh - Brain4Cars  
 [Monocular Visual Odometry.pdf](http://avisingh599.github.io/assets/ugp2-report.pdf)  
 [Avi Singh - github](https://github.com/avisingh599)  
 [Monocular Visual Odometry using OpenCV - Info](https://avisingh599.github.io/vision/monocular-vo/)  
 []()  
 
 
-###CMU Lessons
+##CMU Lessons  
 [KLT: An Implementation of the Kanade-Lucas-Tomasi Feature Tracker](http://www.ces.clemson.edu/~stb/klt/)  
 [Kris Kitani (PhD)](http://www.cs.cmu.edu/~kkitani/)  
 [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)  
