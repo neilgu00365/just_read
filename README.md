@@ -88,6 +88,21 @@
 [U-Tokyo_全方位画像列を用いた Line-based Structure from Motion](http://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/E/E165Final.pdf)  
 
 [Line Feature Matching Method from OpenCV _ radius](http://docs.opencv.org/3.1.0/df/dfa/tutorial_line_descriptor_main.html#gsc.tab=0)  
+##EDLines  
+[Computer Vision & Pattern Recognition at AU-CENG](http://ceng.anadolu.edu.tr/cv/)  
+[EDPF: A Realtime Parameter-Free Edge Segment Detector with a False Detection Control](http://ceng.anadolu.edu.tr/cv/EDPF/)  
+[EDLines: A Real-time Line Segment Detector with a False Detection Control](http://ceng.anadolu.edu.tr/cv/EDLines/)  
+[A Fast Lane Detection Algorithm based on Superimposed Line Extrapolation](http://ceng.anadolu.edu.tr/cv/LaneDetection/LaneDetection.htm)  
+[ColorED: Color Edge and Segment Detection by Edge Drawing (ED)](http://ceng.anadolu.edu.tr/cv/ColorED/)  
+[Edge Drawing – A Combined Real-Time Edge/Edge Segment Detector](http://ceng.anadolu.edu.tr/cv/EdgeDrawing/)  
+[]()  
+
+
+
+
+
+
+
 
 ###Plücker coordinates LineSLAM  
 [Plücker coordinates.Wikipedia](https://en.wikipedia.org/wiki/Pl%C3%BCcker_coordinates)  
