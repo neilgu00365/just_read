@@ -8,6 +8,7 @@
 [wiki.ruka-f.net人検知](http://wiki.ruka-f.net/index.php?%E4%BA%BA%E6%A4%9C%E7%9F%A5)    
 [练习37：哈希表](https://wizardforcel.gitbooks.io/lcthw/content/ex37.html)  
 [MVG __ CHinese](http://nlpr-web.ia.ac.cn/course/viewgeometry.pdf)  
+[OpenSfM (Chapter4) Introduction Chinese,blog](http://blog.csdn.net/zkl99999/article/details/46467277)  
 
 
 ###Just Read  
