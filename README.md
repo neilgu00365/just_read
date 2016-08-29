@@ -291,6 +291,11 @@
 [Jae Kyu Suhr-Kanade-Lucas-Tomasi Tracker.pdf](http://web.yonsei.ac.kr/jksuhr/articles/Kanade-Lucas-Tomasi%20Tracker.pdf)   
 
 
+
+##Mission for PaisEU  
+[Quick_Sort](http://www.cnblogs.com/figure9/archive/2010/12/10/1902711.html)  
+
+
 ---------------------------------------------------------------------------------------------
 #OpenCV-3.1.0 Install
 
