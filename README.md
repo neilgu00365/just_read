@@ -99,12 +99,6 @@
 []()  
 
 
-
-
-
-
-
-
 ##Plücker coordinates LineSLAM  
 [Plücker coordinates.Wikipedia](https://en.wikipedia.org/wiki/Pl%C3%BCcker_coordinates)  
 [一般人のためのプリュッカー座標系 パート1](http://qpp.bitbucket.org/translation/plcker_coordinates_for_the_rest_of_us_part_1/)  
@@ -135,9 +129,6 @@
 []()  
 [カメラキャリブレーション*****](http://www.wakayama-u.ac.jp/~wuhy/CV/CV2010/CV10.pdf)  
 [OpenCV Basics and Camera Calibration](https://cvg.ethz.ch/teaching/cvl/2012/Tutorial-OpenCV.pdf)  
-
-
-
 
 
 ##OpenMVG  
@@ -227,6 +218,18 @@
 [3-D SCENE RECONSTRUCTION FROM LINE CORRESPONDENCES BETWEEN MULTIPLE VIEWS .pdf ](https://etd.ohiolink.edu/!etd.send_file?accession=wright1418675269&disposition=inline)  
 
 
+##Visual Odometry(VO)  
+[Tutorial on Visual Odometry_Davide Scaramuzza](https://sites.google.com/site/scarabotix/tutorial-on-visual-odometry)  
+[VO Part1: The First 30 Years and Fundamentals](http://rpg.ifi.uzh.ch/docs/VO_Part_I_Scaramuzza.pdf)  
+[VO Part2: Matching, Robustness, Optimization, and Applications](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf)  
+[Tutorial on Visual Odometry, Davide Scaramuzza](http://rpg.ifi.uzh.ch/docs/Visual_Odometry_Tutorial.pdf)  
+[OCamCalib: Omnidirectional Camera Calibration Toolbox for Matlab](https://sites.google.com/site/scarabotix/ocamcalib-toolbox)  
+[A Flexible Technique for Accurate Omnidirectional Camera Calibration and Structure from Motion](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1578733)  
+[]()  
+
+
+
+
 
 ##Kalman Filter  
 [The Extended Kalman Filter: An Interactive Tutorial for Non-Experts](http://home.wlu.edu/~levys/kalman_tutorial/)  
@@ -235,8 +238,6 @@
 [Extended Kalman Filter](http://ais.informatik.uni-freiburg.de/teaching/ws12/mapping/pdf/slam03-ekf.pdf)  
 [OpenCV how to use the KalmanFilter class as ExtendedKF ](http://stackoverflow.com/questions/21533093/opencv-how-to-use-the-kalmanfilter-class-as-extendedkf)  
 []()  
-
-
 
 
 
@@ -253,8 +254,6 @@
 [Point Cloud Library 1.7.2 × VS2013 な環境構築 ＆ OpenNIGrabber を使わずに点群を表示してみた](http://tips.hecomi.com/entry/2014/05/11/214401)  
 [【シリーズ】「PCLを触ってみよう!」 第17回：Octreeの基本](http://derivecv.tumblr.com/tagged/PCL%E3%82%92%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%81)  
 []()  
-
-
 
 
 
