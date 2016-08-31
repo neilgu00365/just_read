@@ -9,6 +9,8 @@
 [练习37：哈希表](https://wizardforcel.gitbooks.io/lcthw/content/ex37.html)  
 [MVG __ CHinese](http://nlpr-web.ia.ac.cn/course/viewgeometry.pdf)  
 [OpenSfM (Chapter4) Introduction Chinese,blog*****](http://blog.csdn.net/zkl99999/article/details/46467277)  
+[Autonomous Driving, Computer Vision and Machine Learning - YouTube》by Amnon Shashua](https://www.youtube.com/watch?v=n8T7A3wqH3Q)  
+[Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)  
 
 
 ###Just Read  
