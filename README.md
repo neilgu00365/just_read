@@ -185,6 +185,14 @@
 [ROBUST GROUND PLANE DETECTION WITH NORMALIZED HOMOGRAPHY IN MONOCULAR SEQUENCES FROM A ROBOT PLATFORM ](http://www.public.asu.edu/~bli24/Papers/ICIP06-robot-ground-detect.pdf)   
 [Moving Obstacle Detection](http://vgl-ait.org/cvwiki/doku.php?id=opencv:tutorial:optical_flow#dokuwiki__top)  
 
+[Real Time pose estimation of a textured object _ OpenCV](http://docs.opencv.org/trunk/dc/d2c/tutorial_real_time_pose.html)  
+[Camera Calibration and 3D Reconstruction _ OpenCV](http://docs.opencv.org/trunk/d9/d0c/group__calib3d.html)  
+[Fisheye camera model_Camera Calibration and 3D Reconstruction _ OpenCV](http://docs.opencv.org/trunk/db/d58/group__calib3d__fisheye.html)  
+[Pose Estimation _ OpenCV](http://docs.opencv.org/3.1.0/d7/d53/tutorial_py_pose.html)  
+[Recognition and Pose Estimation of 3D Objects through 3D Features](https://www.google-melange.com/archive/gsoc/2014/orgs/opencv/projects/tbirdal.html)  
+
+
+
 
 
 ##CV::ROI Processing  
