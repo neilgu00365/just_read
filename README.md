@@ -91,6 +91,8 @@
 [U-Tokyo_全方位画像列を用いた Line-based Structure from Motion](http://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/E/E165Final.pdf)  
 
 [Line Feature Matching Method from OpenCV _ radius](http://docs.opencv.org/3.1.0/df/dfa/tutorial_line_descriptor_main.html#gsc.tab=0)  
+
+
 ##EDLines  
 [Computer Vision & Pattern Recognition at AU-CENG](http://ceng.anadolu.edu.tr/cv/)  
 [EDPF: A Realtime Parameter-Free Edge Segment Detector with a False Detection Control](http://ceng.anadolu.edu.tr/cv/EDPF/)  
@@ -179,6 +181,7 @@
 [A Study on an Obstacles Detection System Employing a Car-mounted Camera(Camera ego-estimation)](https://ds.lib.kyutech.ac.jp/dspace/bitstream/10228/5313/1/D-231_kou_k_371.pdf)  
 [Panorama – Image Stitching in OpenCV](http://ramsrigoutham.com/tag/ransac/)  
 
+
 ##Motion Estimation  
 [Vehicle Egomotion Estimation Using Computer Vision.pdf](http://ssl.mit.edu/files/website/theses/SM-2008-PanishRobert.pdf)  
 [Fast and Accurate Structure and Motion Estimation.pdf](http://liu.diva-portal.org/smash/get/diva2:271764/FULLTEXT02.pdf)  
@@ -190,6 +193,29 @@
 [Fisheye camera model_Camera Calibration and 3D Reconstruction _ OpenCV](http://docs.opencv.org/trunk/db/d58/group__calib3d__fisheye.html)  
 [Pose Estimation _ OpenCV](http://docs.opencv.org/3.1.0/d7/d53/tutorial_py_pose.html)  
 [Recognition and Pose Estimation of 3D Objects through 3D Features](https://www.google-melange.com/archive/gsoc/2014/orgs/opencv/projects/tbirdal.html)  
+
+[三维姿态：关于solvePnP与cvPOSIT](http://blog.csdn.net/abc20002929/article/details/8520063)  
+[POSIT算法的原理--opencv 3D姿态估计](http://blog.csdn.net/newthinker_wei/article/details/45748157)  
+[【姿态估计】Pose estimation algorithm 之 Robust Planar Pose (RPP)algorithm](http://blog.csdn.net/leowangzi/article/details/16846405)  
+[关于OpenCV的那些事——相机姿态更新](http://blog.csdn.net/aptx704610875/article/details/48915149)  
+[OpenCV学习笔记（一）——旋转向量与旋转矩阵相互转化(Rodrigues)](http://blog.sina.com.cn/s/blog_5fb3f125010100hp.html)  
+[Camera Calibration and 3D Reconstruction{OpenCV Document}](http://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html#rodrigues)  
+[计算机视觉基础5——本质矩阵与基本矩阵(Essential and Fundamental Matrices)](http://www.cnblogs.com/gemstone/archive/2011/12/20/2294805.html)  
+[计算机视觉基础4——对极几何(Epipolar Geometry)](http://www.cnblogs.com/gemstone/articles/2294551.html)  
+[由opencv中findFundamentalMat和findHomography区别的引申](http://mimimomo.me/2016/01/25/opencv-findhomography-findfundanmentalmat/)  
+[The Eight-Point Algorithm{Penn State}](http://www.cse.psu.edu/~rtc12/CSE486/lecture20.pdf)  
+
+[ユークリッド座標系 <-> 同次座標系の変換](http://moitkfm.blogspot.jp/2014/06/blog-post_19.html)  
+[2D-3Dの対応から射影行列を求める方法（DLTアルゴリズム）](http://moitkfm.blogspot.jp/2014/06/2d-3ddlt.html)  
+[射影行列の分解](http://moitkfm.blogspot.jp/2014/06/blog-post_6895.html)  
+[2D-3Dの対応から射影行列を求める方法（非線形最小化）](http://moitkfm.blogspot.jp/2014/06/2d-3d_21.html)  
+[2D-3D対応からのカメラ位置・姿勢の推定](http://moitkfm.blogspot.jp/2014/06/2d-3d.html)  
+[]()  
+
+
+
+
+
 
 
 
