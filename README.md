@@ -330,7 +330,7 @@
 ##Mission for PaisEU  
 [Quick_Sort](http://www.cnblogs.com/figure9/archive/2010/12/10/1902711.html)  
 [演算量定義](http://qiita.com/cotrpepe/items/1f4c38cc9d3e3a5f5e9c)  
-
+[浮動小数点数の表現と誤差](http://www.edu.cc.uec.ac.jp/mce/c1-3m/ref/FloatingPoint.html)  
 
 ---------------------------------------------------------------------------------------------
 #OpenCV-3.1.0 Install
