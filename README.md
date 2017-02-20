@@ -115,6 +115,8 @@
 [Visual SLAM with Line and Corner Features](https://pdfs.semanticscholar.org/15da/e40683d0265339b745db29c4c497f76fcc6d.pdf)  
 [Camera Pose Estimation from Lines using Plücker Coordinates.pdf](http://cadik.posvete.cz/papers/bmvc15LnP/BMVC2015id125_Camera-Pose-Estimation-from-Lines-using-Plucker-Coordinates.pdf)  
 
+[Plucker Coordinates for the Rest of Us - Part 1](http://www.flipcode.com/archives/Plcker_Coordinates_for_the_Rest_of_Us-Part_1.shtml)  
+
 ##Epipolar Geometry  
 [2008 Chapter 13 Structure from motion](http://mi.eng.cam.ac.uk/~cipolla/publications/contributionToEditedBook/2008-SFM-chapters.pdf)  
 [Dense Real-time 3D Reconstruction from Multiple Images](https://researchbank.rmit.edu.au/eserv/rmit:160688/Ling.pdf)  
